@@ -9,14 +9,7 @@
 
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
 
-
 ---
-## Reference Image : 
-<img width="1300" height="852" alt="image" src="https://github.com/user-attachments/assets/06cf8cb2-ee49-45bc-bc60-0d91975270d7" />
-
-
----
-
 ## Tools for Image Generation
 
 - **DALL·E (OpenAI)** — Capable of generating detailed, realistic images from rich textual prompts. [openai.com/dall-e](https://openai.com/dall-e)
@@ -127,7 +120,7 @@ Note the differences, adjust the prompt, and regenerate until the output closely
 ## Image 1
 
 ### Original Image
-*(Attach original image here)*
+<img width="1300" height="852" alt="image" src="https://github.com/user-attachments/assets/06cf8cb2-ee49-45bc-bc60-0d91975270d7" />
 
 ### Prompts Used
 
