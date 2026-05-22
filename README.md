@@ -117,7 +117,7 @@ Note the differences, adjust the prompt, and regenerate until the output closely
 
 ---
 
-## Image 1
+## Image
 
 ### Original Image
 <img width="1300" height="852" alt="image" src="https://github.com/user-attachments/assets/06cf8cb2-ee49-45bc-bc60-0d91975270d7" />
