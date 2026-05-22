@@ -139,7 +139,8 @@ A bright, vibrant mountain landscape during daytime with a clear blue sky, lush 
 ```
 
 **Output**
-<img width="888" height="471" alt="image" src="https://github.com/user-attachments/assets/26d6ca31-cde1-4c03-bf7a-d28d4aca0a00" />
+<img width="894" height="482" alt="image" src="https://github.com/user-attachments/assets/392c2720-b6d2-4646-9406-056ee484c763" />
+
 
 
 **Advanced Prompt:**
