@@ -126,21 +126,30 @@ Note the differences, adjust the prompt, and regenerate until the output closely
 
 **Basic Prompt:**
 ```
-[Your basic prompt here]
+A scenic mountain landscape with a red train crossing a tall stone bridge over a forested valley.
 ```
+
+**Output**
+<img width="897" height="488" alt="image" src="https://github.com/user-attachments/assets/580ee262-73f3-4bc6-927c-5df991ab6365" />
+
 
 **Intermediate Prompt:**
 ```
-[Your refined prompt here]
+A bright, vibrant mountain landscape during daytime with a clear blue sky, lush green forests covering rocky cliffs, and a vivid red train crossing a tall stone bridge over a deep valley, creating a peaceful and scenic atmosphere.
 ```
+
+**Output**
+<img width="888" height="471" alt="image" src="https://github.com/user-attachments/assets/26d6ca31-cde1-4c03-bf7a-d28d4aca0a00" />
+
 
 **Advanced Prompt:**
 ```
-[Your final detailed prompt here]
+A highly detailed alpine mountain landscape during a bright sunny day, featuring a clear vivid blue sky with scattered soft white clouds. A rugged gray mountain with sharp rocky textures and diagonal erosion lines rises in the background, partially covered with dense green pine forests. In the midground, a steep rocky cliff with rough, weathered stone textures is covered with lush green trees and vegetation. A dark tunnel opening (cave) is carved into the mountain on the left side, from which a long, bright red passenger train is emerging and curving outward. The train crosses a tall arched stone viaduct bridge with distinct gray masonry and evenly spaced arches spanning a deep forested valley below. The valley is filled with dense green trees in varying shades, adding depth and richness. Natural sunlight casts crisp highlights and soft shadows across the scene, enhancing textures and creating a vibrant, cinematic, and peaceful atmosphere with sharp, high-resolution details.
 ```
 
 ### Generated Image
-*(Attach generated image here)*
+<img width="875" height="487" alt="image" src="https://github.com/user-attachments/assets/c469ffab-81d8-4ebb-9dde-8c2d7809ae7e" />
+
 
 
 ## Result
